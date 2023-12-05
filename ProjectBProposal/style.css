@@ -1,0 +1,118 @@
+
+body{
+    margin: 0px;
+    background-color:beige;
+}
+.content-wrapper{
+    width:80%;
+    margin:4% 10% 5% 10%;
+}
+.text-wrapper{
+    width: 100%;
+    position: relative;
+    /* margin-top: -40%; */
+    text-align: center;
+}
+.text-wrapper h1{
+    font-size:10vw;
+    font-family: 'caveat';
+}
+.text-wrapper h1{
+    color:rgb(0, 0, 0);
+}
+.firstpage h1{
+    color:beige;
+    
+}
+.firstpage{
+        margin-top: -40%;
+}
+.thirdpage h1{
+    font-size: 20;
+
+}
+
+.big{
+    background-color: rgb(19, 24, 5);
+}
+.flex-container{
+    display: flex;
+    justify-content: spece-between;
+    width: 80%;
+    margin: auto;
+    flex-wrap: wrap;
+    margin: 5% auto;
+}
+canvas{ 
+    width: 100%;
+    height: 100% !important; 
+    background-color: black;
+    position: relative;
+    left 300px;
+}
+html, body {
+    margin: 0;
+    padding: 0;
+    position: relative;
+  }
+  canvas {
+    display: block;
+  }
+
+.on-top-button {
+    position: absolute;
+    bottom: 15%;
+    z-index: 1000;
+
+}
+p {
+    color:rgb(7, 38, 7);
+    font-family: caveat;
+    font-size: 30px;
+    font-weight: medium;
+    text-align: center;
+}
+#text-wrapperthirdpage{
+    font-size:20px;
+    font-family: 'caveat';
+    text-align: center;
+   
+}
+.text-wrapperfifthpage{
+    .text-wrapper{
+        width: 100%;
+        position: relative;
+        /* margin-top: -40%; */
+        text-align: center;
+    }
+    .text-wrapper h1{
+        font-size:10vw;
+        font-family: 'caveat';
+    }
+    .text-wrapper h1{
+        color:rgb(0, 0, 0);
+    }
+    .firstpage h1{
+        color:beige;
+        
+    }
+    .firstpage{
+            margin-top: -40%;
+    }
+}
+.container1 {
+    text-align: center;
+}
+.container2{
+    text-align:center;
+}
+.container3{
+    image-orientation: center;
+}
+html, body {
+    margin: 0;
+    padding: 0;
+  }
+  canvas {
+    display: block;
+  }
